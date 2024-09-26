@@ -1,1 +1,1 @@
-# j-hub
+# J Hub
